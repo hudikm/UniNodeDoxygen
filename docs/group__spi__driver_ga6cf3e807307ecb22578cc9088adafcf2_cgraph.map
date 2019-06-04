@@ -1,0 +1,6 @@
+<map id="SPI_MasterTransferCreateHandle" name="SPI_MasterTransferCreateHandle">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="299,5,369,32"/>
+<area shape="rect" id="node3" href="$group__spi__driver.html#ga645d041a92bde312d6cf64517c618c41" title="Interrupts the handler for the SPI. " alt="" coords="232,56,436,83"/>
+<area shape="rect" id="node4" href="$group__spi__driver.html#gae90962a54978acf05ca7780489301eb4" title="Aborts an SPI transfer using interrupt. " alt="" coords="484,56,655,83"/>
+<area shape="rect" id="node5" href="$group__spi__driver.html#ga1c3de83156f45d3f91540a1ec5f92826" title="Disables the interrupt for the SPI. " alt="" coords="703,56,853,83"/>
+</map>

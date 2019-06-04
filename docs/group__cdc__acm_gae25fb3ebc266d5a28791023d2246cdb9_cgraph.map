@@ -1,0 +1,4 @@
+<map id="USB_DeviceCdcAcmInit" name="USB_DeviceCdcAcmInit">
+<area shape="rect" id="node2" href="$group__usb__device__class__driver.html#gae4417dbfc87aa966d6e932aed58bc52e" title="Get the device handle according to the controller id. " alt="" coords="220,5,415,47"/>
+<area shape="rect" id="node3" href="$group__usb__os__abstraction.html#gaf36ecc5a6c3359a6587750b17800f49d" title="Creates a mutex. " alt="" coords="239,71,395,98"/>
+</map>

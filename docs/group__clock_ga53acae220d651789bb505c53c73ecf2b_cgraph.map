@@ -1,0 +1,7 @@
+<map id="CLOCK_GetFreq" name="CLOCK_GetFreq">
+<area shape="rect" id="node2" href="$group__clock.html#gad9df7f4196258f0a9037088784a19380" title="Gets the MCG_Lite output clock (MCGOUTCLK) frequency. " alt="" coords="198,5,361,32"/>
+<area shape="rect" id="node3" href="$group__clock.html#ga37466efe335f7268cee76c7d01fd52f5" title="Get the external reference 32K clock frequency (ERCLK32K). " alt="" coords="191,56,367,83"/>
+<area shape="rect" id="node4" href="$group__clock.html#gaebc45953dc5ae83b02ced8a14e8857b9" title="Get the OSC0 external reference clock frequency (OSC0ERCLK). " alt="" coords="431,81,617,108"/>
+<area shape="rect" id="node5" href="$group__clock.html#ga352c4e1fcb54bc5656df3299e154a736" title="Gets the MCG internal reference clock (MCGIRCLK) frequency. " alt="" coords="176,157,383,184"/>
+<area shape="rect" id="node6" href="$group__clock.html#gacee790e56c954e537658600aca0b9481" title="Gets the current MCGPCLK frequency. " alt="" coords="190,208,369,235"/>
+</map>

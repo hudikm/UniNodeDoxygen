@@ -1,0 +1,4 @@
+<map id="LPUART_TransferCreateHandleDMA" name="LPUART_TransferCreateHandleDMA">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="472,5,543,32"/>
+<area shape="rect" id="node3" href="$group__dma.html#ga2eb9a831b9a84c5108097f770dbe90db" title="Sets the DMA callback function. " alt="" coords="293,31,424,57"/>
+</map>

@@ -1,0 +1,77 @@
+var group__stack =
+[
+    [ "array_view_bounds", "classetl_1_1array__view__bounds.html", null ],
+    [ "array_view_uninitialised", "classetl_1_1array__view__uninitialised.html", null ],
+    [ "array_wrapper_bounds", "classetl_1_1array__wrapper__bounds.html", null ],
+    [ "intrusive_stack_base", "classetl_1_1intrusive__stack__base.html", [
+      [ "intrusive_stack_base", "classetl_1_1intrusive__stack__base.html#ae95b5ad3893bab9b9c5e8ac89e94b8e8", null ],
+      [ "~intrusive_stack_base", "classetl_1_1intrusive__stack__base.html#a66f8ba2df6bb667d884adc5a2499fd33", null ],
+      [ "clear", "classetl_1_1intrusive__stack__base.html#a44acbb55fa327bec3a9fe6f05018f3a6", null ],
+      [ "empty", "classetl_1_1intrusive__stack__base.html#a9310dceb707565390209d8912dc7d566", null ],
+      [ "pop", "classetl_1_1intrusive__stack__base.html#a00cd52c944815e9d6243f8742b4a9477", null ],
+      [ "pop_into", "classetl_1_1intrusive__stack__base.html#a6ad95cf7995eda795b6c65bc29747f47", null ],
+      [ "push", "classetl_1_1intrusive__stack__base.html#acf2c4dc4d9354576d9fd64f9ef72b3ab", null ],
+      [ "reverse", "classetl_1_1intrusive__stack__base.html#a346b5bd9deaf9952d9a14644db69e285", null ],
+      [ "size", "classetl_1_1intrusive__stack__base.html#a0e0dbfffa93e6cb824ff0bd6e4f1a660", null ],
+      [ "current_size", "classetl_1_1intrusive__stack__base.html#a890e60db2e0a01b4792f6f1d2059aa24", null ],
+      [ "p_top", "classetl_1_1intrusive__stack__base.html#a93162fe856194f3591fdc3346eb55642", null ]
+    ] ],
+    [ "intrusive_stack", "classetl_1_1intrusive__stack.html", [
+      [ "intrusive_stack", "classetl_1_1intrusive__stack.html#a7955ed75b0de3e5d67ecd7cd2cbb558b", null ],
+      [ "top", "classetl_1_1intrusive__stack.html#a18e33ec57a3fcb03c8cfddd1d22bc441", null ],
+      [ "top", "classetl_1_1intrusive__stack.html#a59088e2590499439e1669b085efb59de", null ]
+    ] ],
+    [ "stack_exception", "classetl_1_1stack__exception.html", null ],
+    [ "stack_full", "classetl_1_1stack__full.html", null ],
+    [ "stack_empty", "classetl_1_1stack__empty.html", null ],
+    [ "stack_base", "classetl_1_1stack__base.html", [
+      [ "size_type", "classetl_1_1stack__base.html#aa4f299f1ef8e723a38abe8d1ef8fa19d", null ],
+      [ "stack_base", "classetl_1_1stack__base.html#a1e4714fe054d997fb4cea84d4860452f", null ],
+      [ "~stack_base", "classetl_1_1stack__base.html#a1bc15b3a3620ff56c10f3a6bee62a8ed", null ],
+      [ "add_in", "classetl_1_1stack__base.html#ae429bb14eb27d0bc40365226fb712ae2", null ],
+      [ "available", "classetl_1_1stack__base.html#a754c578038dc9e83761f6151e7e1b970", null ],
+      [ "del_out", "classetl_1_1stack__base.html#a047e98307761b5a25151db35a50b9c85", null ],
+      [ "empty", "classetl_1_1stack__base.html#a1af604d9336b4eb0922045014db47fc4", null ],
+      [ "full", "classetl_1_1stack__base.html#a258350302a08c4317c90f3ca438af3f0", null ],
+      [ "index_clear", "classetl_1_1stack__base.html#a3b183bceb54280aeeecb5b8f9d873433", null ],
+      [ "max_size", "classetl_1_1stack__base.html#a5b2ddebf5edf91b0a67417b566aa9c78", null ],
+      [ "size", "classetl_1_1stack__base.html#a43f7f3e6d1d214118c92aadd0fd804c0", null ],
+      [ "CAPACITY", "classetl_1_1stack__base.html#a2e22b5ad5a328fe5f3f14cfb45583cd8", null ],
+      [ "construct_count", "classetl_1_1stack__base.html#a402bac03e09c1e25ee2be63be504a3fd", null ],
+      [ "current_size", "classetl_1_1stack__base.html#a5c56c82b88eebb136c96f86cccb80b85", null ],
+      [ "top_index", "classetl_1_1stack__base.html#a9308759724dd915a52cf648a9dca7f97", null ]
+    ] ],
+    [ "istack", "classetl_1_1istack.html", [
+      [ "const_pointer", "classetl_1_1istack.html#a2e00f71e2a9219e36901ab43891a9498", null ],
+      [ "const_reference", "classetl_1_1istack.html#adf34d6570e5d82dc4d91cd722d9f174d", null ],
+      [ "pointer", "classetl_1_1istack.html#ac3e9b1c5992f174c1a619708143c9f49", null ],
+      [ "reference", "classetl_1_1istack.html#ab9f6e8036a9bb08e8d3ec355d78ae216", null ],
+      [ "size_type", "classetl_1_1istack.html#ae8979e490e53ac320d746f444e28fb46", null ],
+      [ "value_type", "classetl_1_1istack.html#af0ad09e3b178eb8278db9ba9a4156af1", null ],
+      [ "istack", "classetl_1_1istack.html#a5a00ed85b5d774ff77b98180e749fb32", null ],
+      [ "~istack", "classetl_1_1istack.html#ad0bf91531340008834ba6cb0645cf3f0", null ],
+      [ "clear", "classetl_1_1istack.html#ae5daf22d7eb4cb57ba567ce14f2692a3", null ],
+      [ "clone", "classetl_1_1istack.html#acf01d475c7dd34e1aedca53628008b22", null ],
+      [ "emplace", "classetl_1_1istack.html#a6ed7c5bd21f11459578a96645843e5d8", null ],
+      [ "emplace", "classetl_1_1istack.html#a6ff2418bf1e761630eb802f0d8b50e8d", null ],
+      [ "emplace", "classetl_1_1istack.html#abe3b2ca59bb1f3da538fc797918a7eb5", null ],
+      [ "emplace", "classetl_1_1istack.html#a2faf18c57ba9925517d947bff6c15971", null ],
+      [ "operator=", "classetl_1_1istack.html#ab69a77e9bc05ae491cec3c3056d91293", null ],
+      [ "pop", "classetl_1_1istack.html#a81b83e5c712dfcc68330772bce5b8797", null ],
+      [ "pop_into", "classetl_1_1istack.html#ad8bd9ed4d43490f463fe80a7d61134b1", null ],
+      [ "pop_into", "classetl_1_1istack.html#ac87760c8d87f8ff0238accc0f4271529", null ],
+      [ "push", "classetl_1_1istack.html#a49fc8d2c26ef943a6cf2bc82e9ab6c6a", null ],
+      [ "push", "classetl_1_1istack.html#adb161710aeab055ac115e7c6c9481a70", null ],
+      [ "reverse", "classetl_1_1istack.html#af85ac9203fe02a6d133a8f3cf56b5e7d", null ],
+      [ "top", "classetl_1_1istack.html#a1819f13e95bcee9fcd3107678c95ae32", null ],
+      [ "top", "classetl_1_1istack.html#aff564527c88cffa44795f296ec010493", null ]
+    ] ],
+    [ "stack", "classetl_1_1stack.html", [
+      [ "stack", "classetl_1_1stack.html#a1c6564e96489bc75f3f23253172b9ae3", null ],
+      [ "stack", "classetl_1_1stack.html#ac69cd6ec41a9e32e37b3712f9d94e5aa", null ],
+      [ "~stack", "classetl_1_1stack.html#ac65b084d55ec2b064a4a4a442d741802", null ],
+      [ "operator=", "classetl_1_1stack.html#ab01ad3d758390d0a5372c80a35667875", null ]
+    ] ],
+    [ "string_view_bounds", "classetl_1_1string__view__bounds.html", null ],
+    [ "string_view_uninitialised", "classetl_1_1string__view__uninitialised.html", null ]
+];

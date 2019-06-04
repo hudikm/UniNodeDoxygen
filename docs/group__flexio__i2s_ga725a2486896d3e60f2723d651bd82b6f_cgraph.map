@@ -1,0 +1,4 @@
+<map id="FLEXIO_I2S_TransferSetFormat" name="FLEXIO_I2S_TransferSetFormat">
+<area shape="rect" id="node2" href="$group__flexio__i2s.html#ga12f775c48ef0376616d271de5e224e03" title="Configures the FlexIO I2S audio format in master mode. " alt="" coords="265,5,469,32"/>
+<area shape="rect" id="node3" href="$group__flexio__i2s.html#ga31e254b013b68f5c84a45794ee67e9b6" title="Configures the FlexIO I2S audio format in slave mode. " alt="" coords="269,56,466,83"/>
+</map>

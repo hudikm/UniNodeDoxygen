@@ -1,0 +1,6 @@
+<map id="DbgConsole_Flush" name="DbgConsole_Flush">
+<area shape="rect" id="node2" href="$group__debugconsole.html#gab7d9a23fabb037a5bb62a10f5932f59b" title="wait log and io idle " alt="" coords="187,31,291,57"/>
+<area shape="rect" id="node3" href="$group__debugconsole.html#ga9775566ac95d159c0af1ecdac3da14c3" title="io wait idle. " alt="" coords="339,31,429,57"/>
+<area shape="rect" id="node4" href="$group__uart__driver.html#ga28bf715678c0d3c8c3902e79455ee923" title="Gets UART status flags. " alt="" coords="485,5,643,32"/>
+<area shape="rect" id="node5" href="$group__lpuart__driver.html#gab83db963591b116f90daf3e24118cb09" title="Gets LPUART status flags. " alt="" coords="477,56,651,83"/>
+</map>

@@ -1,0 +1,3 @@
+<map id="UART_TransferSendNonBlocking" name="UART_TransferSendNonBlocking">
+<area shape="rect" id="node2" href="$group__uart__driver.html#ga49ecd761481a22956e3f46285038719c" title="Enables UART interrupts according to the provided mask. " alt="" coords="272,5,433,32"/>
+</map>

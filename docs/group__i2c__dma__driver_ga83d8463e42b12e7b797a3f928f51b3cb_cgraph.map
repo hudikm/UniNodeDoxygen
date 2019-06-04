@@ -1,0 +1,4 @@
+<map id="I2C_MasterTransferCreateHandleDMA" name="I2C_MasterTransferCreateHandleDMA">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="409,13,480,39"/>
+<area shape="rect" id="node3" href="$group__dma.html#ga2eb9a831b9a84c5108097f770dbe90db" title="Sets the DMA callback function. " alt="" coords="231,38,361,65"/>
+</map>

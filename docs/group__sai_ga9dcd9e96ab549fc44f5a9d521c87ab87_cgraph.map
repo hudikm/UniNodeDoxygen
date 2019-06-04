@@ -1,0 +1,4 @@
+<map id="SAI_TransferTerminateSend" name="SAI_TransferTerminateSend">
+<area shape="rect" id="node2" href="$group__sai.html#ga9fca6aa3b5cbcf05ca2c0b6637b476e7" title="Aborts the current send. " alt="" coords="240,5,400,32"/>
+<area shape="rect" id="node3" href="$group__sai.html#ga32b2f06766a8bb92dd778a152dfd8b2e" title="Enables/disables the SAI Tx. " alt="" coords="448,5,555,32"/>
+</map>

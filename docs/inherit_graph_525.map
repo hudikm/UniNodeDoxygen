@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classetl_1_1stack__base.html" title="etl::stack_base" alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$classetl_1_1istack.html" title="This is the base for all stacks that contain a particular type. " alt="" coords="164,5,275,32"/>
+<area shape="rect" id="node3" href="$classetl_1_1stack.html" title="etl::stack\&lt; T, SIZE \&gt;" alt="" coords="323,5,469,32"/>
+</map>

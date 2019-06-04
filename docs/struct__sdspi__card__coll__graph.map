@@ -1,0 +1,6 @@
+<map id="_sdspi_card" name="_sdspi_card">
+<area shape="rect" id="node2" href="$struct__sd__scr.html" title="SD card SCR register. " alt="" coords="5,5,73,32"/>
+<area shape="rect" id="node3" href="$struct__sd__csd.html" title="SD card CSD register. " alt="" coords="97,5,168,32"/>
+<area shape="rect" id="node4" href="$struct__sd__cid.html" title="SD card CID register. " alt="" coords="193,5,259,32"/>
+<area shape="rect" id="node5" href="$struct__sdspi__host.html" title="SDSPI host state. " alt="" coords="284,5,376,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="SAI_TransferTerminateReceive" name="SAI_TransferTerminateReceive">
+<area shape="rect" id="node2" href="$group__sai.html#gab2859ed8b6805a962d45d5eb16a9095f" title="Aborts the the current IRQ receive. " alt="" coords="259,5,437,32"/>
+<area shape="rect" id="node3" href="$group__sai.html#gaeaa118415a867f016efa6af3e0d06e17" title="Enables/disables the SAI Rx. " alt="" coords="485,5,593,32"/>
+</map>

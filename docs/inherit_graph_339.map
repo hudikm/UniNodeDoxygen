@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classetl_1_1generic__pool.html" title="etl::generic_pool\&lt;\l sizeof(typename etl\l::imap\&lt; TKey, TValue,\l TCompare \&gt;::Data_Node)\l, etl::alignment_of\&lt; typename\l etl::imap\&lt; TKey, TValue, TCompare\l \&gt;::Data_Node \&gt;::value, SIZE_ \&gt;" alt="" coords="5,5,243,120"/>
+<area shape="rect" id="node2" href="$classetl_1_1pool.html" title="etl::pool\&lt; typename\l etl::imap\&lt; TKey, TValue,\l TCompare \&gt;::Data_Node,\l MAX_SIZE \&gt;" alt="" coords="291,27,468,98"/>
+</map>

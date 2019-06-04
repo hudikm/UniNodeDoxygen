@@ -1,0 +1,5 @@
+<map id="_flexio_i2c_master_handle" name="_flexio_i2c_master_handle">
+<area shape="rect" id="node2" href="$struct__flexio__i2c__type.html" title="Define FlexIO I2C master access structure typedef. " alt="" coords="5,102,121,129"/>
+<area shape="rect" id="node3" href="$structFLEXIO__Type.html" title="FLEXIO_Type" alt="" coords="11,5,116,32"/>
+<area shape="rect" id="node4" href="$struct__flexio__i2c__master__transfer.html" title="Define FlexIO I2C master transfer structure. " alt="" coords="147,95,278,136"/>
+</map>

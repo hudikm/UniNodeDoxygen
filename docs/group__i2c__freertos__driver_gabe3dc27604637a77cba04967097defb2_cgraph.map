@@ -1,0 +1,3 @@
+<map id="I2C_RTOS_Deinit" name="I2C_RTOS_Deinit">
+<area shape="rect" id="node2" href="$group__i2c__driver.html#gadcf7122f0a38d4d9da0f052fcb167957" title="De&#45;initializes the I2C master peripheral. Call this API to gate the I2C clock. The I2C master module ..." alt="" coords="181,5,305,32"/>
+</map>

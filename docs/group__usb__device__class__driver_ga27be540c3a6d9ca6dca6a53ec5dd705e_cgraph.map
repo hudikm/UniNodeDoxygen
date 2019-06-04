@@ -1,0 +1,6 @@
+<map id="USB_DeviceClassCallback" name="USB_DeviceClassCallback">
+<area shape="rect" id="node2" href="$group__usb__device__ch9.html#ga00b1709f237ee5889218f187a94e278d" title="Control endpoint initialization function. " alt="" coords="236,31,420,57"/>
+<area shape="rect" id="node5" href="$group__usb__device__class__driver.html#ga589137a6d8183d64536efe7f685f75b3" title="Handle the event passed to the class drivers. " alt="" coords="245,81,411,108"/>
+<area shape="rect" id="node3" href="$group__usb__device__driver.html#ga1d9149236b689134a85861f0a859c971" title="Initializes a specified endpoint. " alt="" coords="476,5,643,32"/>
+<area shape="rect" id="node4" href="$group__usb__device__driver.html#ga9bd52faa129ce19404fe65c0b2762533" title="Deinitializes a specified endpoint. " alt="" coords="468,56,651,83"/>
+</map>

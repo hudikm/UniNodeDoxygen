@@ -1,0 +1,4 @@
+<map id="I2C_MasterTransferCreateHandle" name="I2C_MasterTransferCreateHandle">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="297,5,367,32"/>
+<area shape="rect" id="node3" href="$group__i2c__driver.html#gad091cd1857d2bd8ce64583739b3a35d5" title="Master interrupt handler. " alt="" coords="231,56,433,83"/>
+</map>

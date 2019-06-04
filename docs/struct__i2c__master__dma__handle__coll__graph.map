@@ -1,0 +1,6 @@
+<map id="_i2c_master_dma_handle" name="_i2c_master_dma_handle">
+<area shape="rect" id="node2" href="$struct__i2c__master__transfer.html" title="I2C master transfer structure. " alt="" coords="5,95,149,121"/>
+<area shape="rect" id="node3" href="$structI2C__Type.html" title="I2C_Type" alt="" coords="174,95,253,121"/>
+<area shape="rect" id="node4" href="$struct__dma__handle.html" title="DMA DMA handle structure. " alt="" coords="313,95,412,121"/>
+<area shape="rect" id="node5" href="$structDMA__Type.html" title="DMA_Type" alt="" coords="319,5,407,32"/>
+</map>
