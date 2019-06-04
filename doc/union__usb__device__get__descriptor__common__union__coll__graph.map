@@ -1,0 +1,10 @@
+<map id="_usb_device_get_descriptor_common_union" name="_usb_device_get_descriptor_common_union">
+<area shape="rect" id="node2" href="$struct__usb__device__get__configuration__descriptor__struct.html" title="Obtains the control get configuration descriptor request structure. " alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node3" href="$struct__usb__device__get__descriptor__common__struct.html" title="Obtains the control get descriptor request common structure. " alt="" coords="14,71,198,112"/>
+<area shape="rect" id="node4" href="$struct__usb__device__get__device__qualifier__descriptor__struct.html" title="Obtains the control get device qualifier descriptor request structure. " alt="" coords="23,137,189,193"/>
+<area shape="rect" id="node5" href="$struct__usb__device__get__device__descriptor__struct.html" title="Obtains the control get device descriptor request structure. " alt="" coords="23,217,189,259"/>
+<area shape="rect" id="node6" href="$struct__usb__device__get__hid__report__descriptor__struct.html" title="Obtains the control get HID report descriptor request structure. " alt="" coords="23,283,189,324"/>
+<area shape="rect" id="node7" href="$struct__usb__device__get__string__descriptor__struct.html" title="Obtains the control get string descriptor request structure. " alt="" coords="27,348,185,389"/>
+<area shape="rect" id="node8" href="$struct__usb__device__get__hid__physical__descriptor__struct.html" title="Obtains the control get HID physical descriptor request structure. " alt="" coords="34,414,178,470"/>
+<area shape="rect" id="node9" href="$struct__usb__device__get__hid__descriptor__struct.html" title="Obtains the control get HID descriptor request structure. " alt="" coords="34,495,178,536"/>
+</map>

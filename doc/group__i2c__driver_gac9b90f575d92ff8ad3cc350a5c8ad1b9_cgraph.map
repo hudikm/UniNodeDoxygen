@@ -1,0 +1,4 @@
+<map id="I2C_SlaveTransferCreateHandle" name="I2C_SlaveTransferCreateHandle">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="327,5,397,32"/>
+<area shape="rect" id="node3" href="$group__i2c__driver.html#ga097c0b20503381de44cccba311dcf236" title="Slave interrupt handler. " alt="" coords="264,56,460,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="_usb_device_khci_state_struct" name="_usb_device_khci_state_struct">
+<area shape="rect" id="node2" href="$struct__usb__device__khci__endpoint__state__struct.html" title="Endpoint state structure. " alt="" coords="5,213,188,255"/>
+<area shape="rect" id="node3" href="$structUSB__Type.html" title="USB_Type" alt="" coords="212,221,299,247"/>
+<area shape="rect" id="node4" href="$struct__usb__device__struct.html" title="USB device status structure. " alt="" coords="323,221,457,247"/>
+<area shape="rect" id="node5" href="$struct__usb__device__endpoint__callback__struct.html" title="Endpoint callback structure. " alt="" coords="207,109,357,151"/>
+<area shape="rect" id="node6" href="$struct__usb__device__endpoint__callback__message__struct.html" title="Endpoint callback message structure. " alt="" coords="193,5,371,47"/>
+<area shape="rect" id="node7" href="$struct__usb__device__controller__interface__struct.html" title="USB device controller interface structure. " alt="" coords="382,109,537,151"/>
+</map>

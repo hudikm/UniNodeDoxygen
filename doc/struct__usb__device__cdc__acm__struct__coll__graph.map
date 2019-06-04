@@ -1,0 +1,10 @@
+<map id="_usb_device_cdc_acm_struct" name="_usb_device_cdc_acm_struct">
+<area shape="rect" id="node2" href="$struct__usb__device__class__config__struct.html" title="Obtains the device class information structure. " alt="" coords="1759,73,1934,114"/>
+<area shape="rect" id="node3" href="$struct__usb__device__class__struct.html" title="Obtains the class data structure. " alt="" coords="1435,80,1608,107"/>
+<area shape="rect" id="node4" href="$struct__usb__device__interface__list.html" title="Obtains the interface group. " alt="" coords="1077,80,1253,107"/>
+<area shape="rect" id="node5" href="$struct__usb__device__interfaces__struct.html" title="Obtains the interface data structure. " alt="" coords="809,73,968,114"/>
+<area shape="rect" id="node6" href="$struct__usb__device__interface__struct.html" title="Obtains the interface list data structure. " alt="" coords="555,43,707,85"/>
+<area shape="rect" id="node7" href="$struct__usb__device__endpoint__list.html" title="Obtains the endpoint group. " alt="" coords="257,51,432,77"/>
+<area shape="rect" id="node8" href="$struct__usb__device__endpoint__struct.html" title="Obtains the endpoint data structure. " alt="" coords="5,43,156,85"/>
+<area shape="rect" id="node9" href="$struct__usb__device__cdc__acm__pipe.html" title="Definition of pipe structure. " alt="" coords="1753,147,1940,173"/>
+</map>

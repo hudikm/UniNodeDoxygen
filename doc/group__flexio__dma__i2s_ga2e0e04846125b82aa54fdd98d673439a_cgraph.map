@@ -1,0 +1,4 @@
+<map id="FLEXIO_I2S_TransferTxCreateHandleDMA" name="FLEXIO_I2S_TransferTxCreateHandleDMA">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="437,13,508,39"/>
+<area shape="rect" id="node3" href="$group__dma.html#ga2eb9a831b9a84c5108097f770dbe90db" title="Sets the DMA callback function. " alt="" coords="259,38,389,65"/>
+</map>

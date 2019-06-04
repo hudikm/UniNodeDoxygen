@@ -1,0 +1,6 @@
+<map id="_flexio_uart_dma_handle" name="_flexio_uart_dma_handle">
+<area shape="rect" id="node2" href="$struct__flexio__uart__type.html" title="Define FlexIO UART access structure typedef. " alt="" coords="5,95,127,121"/>
+<area shape="rect" id="node3" href="$structFLEXIO__Type.html" title="FLEXIO_Type" alt="" coords="13,5,119,32"/>
+<area shape="rect" id="node4" href="$struct__dma__handle.html" title="DMA DMA handle structure. " alt="" coords="151,95,250,121"/>
+<area shape="rect" id="node5" href="$structDMA__Type.html" title="DMA_Type" alt="" coords="157,5,245,32"/>
+</map>

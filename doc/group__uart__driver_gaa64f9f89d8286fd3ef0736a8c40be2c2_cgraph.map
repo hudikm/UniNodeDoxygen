@@ -1,0 +1,3 @@
+<map id="UART_TransferAbortSend" name="UART_TransferAbortSend">
+<area shape="rect" id="node2" href="$group__uart__driver.html#ga3f24b6b9b730046a9a81918f9abe7d99" title="Disables the UART interrupts according to the provided mask. " alt="" coords="228,5,393,32"/>
+</map>

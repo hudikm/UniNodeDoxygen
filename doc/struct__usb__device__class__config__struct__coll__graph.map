@@ -1,0 +1,8 @@
+<map id="_usb_device_class_config_struct" name="_usb_device_class_config_struct">
+<area shape="rect" id="node2" href="$struct__usb__device__class__struct.html" title="Obtains the class data structure. " alt="" coords="7,496,180,523"/>
+<area shape="rect" id="node3" href="$struct__usb__device__interface__list.html" title="Obtains the interface group. " alt="" coords="5,407,181,433"/>
+<area shape="rect" id="node4" href="$struct__usb__device__interfaces__struct.html" title="Obtains the interface data structure. " alt="" coords="14,303,173,344"/>
+<area shape="rect" id="node5" href="$struct__usb__device__interface__struct.html" title="Obtains the interface list data structure. " alt="" coords="17,199,169,240"/>
+<area shape="rect" id="node6" href="$struct__usb__device__endpoint__list.html" title="Obtains the endpoint group. " alt="" coords="6,109,181,136"/>
+<area shape="rect" id="node7" href="$struct__usb__device__endpoint__struct.html" title="Obtains the endpoint data structure. " alt="" coords="18,5,169,47"/>
+</map>

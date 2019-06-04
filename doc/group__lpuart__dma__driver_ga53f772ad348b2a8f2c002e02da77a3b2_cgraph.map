@@ -1,0 +1,4 @@
+<map id="LPUART_TransferSendDMA" name="LPUART_TransferSendDMA">
+<area shape="rect" id="node2" href="$group__dma.html#gaf6e0b93e92a31e0dd3398bce34decb40" title="Prepares the DMA transfer configuration structure. " alt="" coords="244,5,396,32"/>
+<area shape="rect" id="node3" href="$group__dma.html#gadf9824800405f5b161bae1db1bf7d1f7" title="Submits the DMA transfer request. " alt="" coords="246,56,394,83"/>
+</map>

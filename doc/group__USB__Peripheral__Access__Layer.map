@@ -1,0 +1,7 @@
+<map id="USB Peripheral Access Layer" name="USB Peripheral Access Layer">
+<area shape="rect" id="node2" href="$group__SDK__Compatibility__Symbols.html" title="SDK Compatibility" alt="" coords="455,5,585,32"/>
+<area shape="rect" id="node3" href="$group__Bit__Field__Generic__Macros.html" title="Macros for use with\l bit field definitions\l (xxx_SHIFT, xxx_MASK)." alt="" coords="431,56,609,112"/>
+<area shape="rect" id="node4" href="$group__USB__Register__Masks.html" title="USB Register Masks" alt="" coords="447,136,593,163"/>
+<area shape="rect" id="node5" href="$group__VREF__Peripheral__Access__Layer.html" title="VREF Peripheral Access\l Layer" alt="" coords="436,187,604,229"/>
+<area shape="rect" id="node6" href="$group__UART__Peripheral__Access__Layer.html" title="UART Peripheral Access\l Layer" alt="" coords="5,97,175,138"/>
+</map>

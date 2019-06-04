@@ -1,0 +1,3 @@
+<map id="I2C_SlaveTransferAbort" name="I2C_SlaveTransferAbort">
+<area shape="rect" id="node2" href="$group__i2c__driver.html#ga9839c1fd49a0f62f42b0adfa74f62853" title="Disables I2C interrupt requests. " alt="" coords="216,5,365,32"/>
+</map>

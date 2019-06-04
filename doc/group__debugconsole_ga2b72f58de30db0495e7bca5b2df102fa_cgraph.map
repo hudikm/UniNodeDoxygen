@@ -1,0 +1,5 @@
+<map id="LOG_Init" name="LOG_Init">
+<area shape="rect" id="node2" href="$group__debugconsole.html#ga49421dd16dbf5095ef6ab4239f61c124" title="io init function. " alt="" coords="128,31,189,57"/>
+<area shape="rect" id="node3" href="$group__uart__driver.html#ga47c7c09e04a0497f4530d553e27d96c5" title="Gets the default configuration structure. " alt="" coords="237,5,404,32"/>
+<area shape="rect" id="node4" href="$group__uart__driver.html#gab5965a8e11f7e1d4d531141291fd5288" title="Initializes a UART instance with a user configuration structure and peripheral clock. " alt="" coords="279,56,363,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="FLEXIO_UART_TransferHandleIRQ" name="FLEXIO_UART_TransferHandleIRQ">
+<area shape="rect" id="node2" href="$group__flexio__uart.html#gaefea3702f5a53a82246aaba191605716" title="Gets the FlexIO UART status flags. " alt="" coords="292,5,503,32"/>
+<area shape="rect" id="node3" href="$group__flexio__uart.html#ga22b879f2d9e08524999a98c7a743c3b0" title="Gets the FlexIO UART status flags. " alt="" coords="287,56,508,83"/>
+</map>

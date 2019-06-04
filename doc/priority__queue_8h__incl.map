@@ -1,0 +1,23 @@
+<map id="etl/priority_queue.h" name="etl/priority_queue.h">
+<area shape="rect" id="node5" href="$platform_8h.html" title="platform.h" alt="" coords="1328,603,1408,629"/>
+<area shape="rect" id="node9" href="$container_8h.html" title="container.h" alt="" coords="887,379,974,405"/>
+<area shape="rect" id="node11" href="$vector_8h.html" title="vector.h" alt="" coords="1404,80,1473,107"/>
+<area shape="rect" id="node16" href="$type__traits_8h.html" title="type_traits.h" alt="" coords="559,453,654,480"/>
+<area shape="rect" id="node20" href="$parameter__type_8h.html" title="parameter_type.h" alt="" coords="812,304,935,331"/>
+<area shape="rect" id="node21" href="$error__handler_8h.html" title="error_handler.h" alt="" coords="2071,379,2179,405"/>
+<area shape="rect" id="node23" href="$exception_8h.html" title="exception.h" alt="" coords="2265,453,2354,480"/>
+<area shape="rect" id="node6" href="$etl__profile_8h_source.html" title="etl_profile.h" alt="" coords="1323,677,1413,704"/>
+<area shape="rect" id="node7" href="$gcc__windows__x86_8h.html" title="etl/profiles/gcc_windows\l_x86.h" alt="" coords="1285,752,1451,793"/>
+<area shape="rect" id="node13" href="$algorithm_8h.html" title="algorithm.h" alt="" coords="1162,304,1249,331"/>
+<area shape="rect" id="node25" href="$memory_8h.html" title="memory.h" alt="" coords="385,304,465,331"/>
+<area shape="rect" id="node26" href="$alignment_8h.html" title="alignment.h" alt="" coords="119,379,209,405"/>
+<area shape="rect" id="node27" href="$array_8h.html" title="array.h" alt="" coords="1250,229,1313,256"/>
+<area shape="rect" id="node28" href="$debug__count_8h.html" title="debug_count.h" alt="" coords="1940,379,2047,405"/>
+<area shape="rect" id="node29" href="$vector__base_8h.html" title="private/vector_base.h" alt="" coords="2033,304,2180,331"/>
+<area shape="rect" id="node30" href="$ivectorpointer_8h.html" title="private/ivectorpointer.h" alt="" coords="1492,155,1647,181"/>
+<area shape="rect" id="node15" href="$iterator_8h.html" title="iterator.h" alt="" coords="738,379,811,405"/>
+<area shape="rect" id="node17" href="$nullptr_8h.html" title="nullptr.h" alt="" coords="582,528,650,555"/>
+<area shape="rect" id="node19" href="$static__assert_8h_source.html" title="static_assert.h" alt="" coords="346,528,454,555"/>
+<area shape="rect" id="node24" href="$function_8h.html" title="function.h" alt="" coords="2101,528,2179,555"/>
+<area shape="rect" id="node31" href="$pvoidvector_8h.html" title="pvoidvector.h" alt="" coords="1534,229,1634,256"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FLEXIO_I2S_TransferTxCreateHandle" name="FLEXIO_I2S_TransferTxCreateHandle">
+<area shape="rect" id="node2" href="$group__platform__Callback.html#ga574d30728c4ddc33a58cbb176d426bc3" title="callback" alt="" coords="339,5,409,32"/>
+<area shape="rect" id="node3" href="$group__flexio__driver.html#gaa69efc375ec2d7c2a84c1fb91b8953fc" title="Registers the handle and the interrupt handler for the FlexIO&#45;simulated peripheral. " alt="" coords="279,56,469,83"/>
+<area shape="rect" id="node4" href="$group__flexio__i2s.html#gab7706d68288d8c1fa2ad05d43ed459fe" title="Tx interrupt handler. " alt="" coords="259,107,489,133"/>
+</map>

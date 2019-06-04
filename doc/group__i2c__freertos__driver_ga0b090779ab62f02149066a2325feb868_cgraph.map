@@ -1,0 +1,4 @@
+<map id="I2C_RTOS_Transfer" name="I2C_RTOS_Transfer">
+<area shape="rect" id="node2" href="$group__i2c__driver.html#gac7f76a04b6f6873c52ad176d58901fe9" title="Performs a master interrupt non&#45;blocking transfer on the I2C bus. " alt="" coords="196,5,408,32"/>
+<area shape="rect" id="node3" href="$group__i2c__dma__driver.html#ga8643ea43510b8d97b94db05766444cd2" title="Performs a master DMA non&#45;blocking transfer on the I2C bus. " alt="" coords="218,56,386,83"/>
+</map>

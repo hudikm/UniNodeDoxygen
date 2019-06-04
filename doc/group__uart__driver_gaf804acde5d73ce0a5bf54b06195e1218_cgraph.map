@@ -1,0 +1,5 @@
+<map id="UART_TransferReceiveNonBlocking" name="UART_TransferReceiveNonBlocking">
+<area shape="rect" id="node2" href="$group__uart__driver.html#ga3f24b6b9b730046a9a81918f9abe7d99" title="Disables the UART interrupts according to the provided mask. " alt="" coords="314,5,479,32"/>
+<area shape="rect" id="node3" href="$group__uart__driver.html#ga3921aa660977ca77dadf95fa35f1c3a9" title="Get the length of received data in RX ring buffer. " alt="" coords="289,57,504,98"/>
+<area shape="rect" id="node4" href="$group__uart__driver.html#ga49ecd761481a22956e3f46285038719c" title="Enables UART interrupts according to the provided mask. " alt="" coords="316,123,477,149"/>
+</map>

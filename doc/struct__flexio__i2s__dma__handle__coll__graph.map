@@ -1,0 +1,7 @@
+<map id="_flexio_i2s_dma_handle" name="_flexio_i2s_dma_handle">
+<area shape="rect" id="node2" href="$struct__flexio__i2s__type.html" title="Define FlexIO I2S access structure typedef. " alt="" coords="5,95,121,121"/>
+<area shape="rect" id="node3" href="$structFLEXIO__Type.html" title="FLEXIO_Type" alt="" coords="11,5,116,32"/>
+<area shape="rect" id="node4" href="$struct__flexio__i2s__transfer.html" title="Define FlexIO I2S transfer structure. " alt="" coords="145,95,280,121"/>
+<area shape="rect" id="node5" href="$struct__dma__handle.html" title="DMA DMA handle structure. " alt="" coords="305,95,403,121"/>
+<area shape="rect" id="node6" href="$structDMA__Type.html" title="DMA_Type" alt="" coords="310,5,398,32"/>
+</map>
